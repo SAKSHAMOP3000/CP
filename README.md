@@ -1,2 +1,2 @@
 # CP
-This repo consists of frequently used syntax in various programming languages 
+This repo consists of frequently used code snippets
